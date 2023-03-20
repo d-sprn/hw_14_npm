@@ -1,0 +1,23 @@
+{
+  "name": "hw_14_npm",
+  "version": "1.0.0",
+  "description": "hw_14",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "hw_14"
+  ],
+  "author": "D.Suprun",
+  "license": "ISC",
+  "dependencies": {
+    "airbnb": "^0.0.2",
+    "lodash": "^4.17.21",
+    "prettier": "^2.8.5"
+  },
+  "devDependencies": {
+    "eslint": "^8.36.0",
+    "eslint-plugin-react": "^7.32.2"
+  }
+}
